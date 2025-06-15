@@ -63,7 +63,7 @@ python main.py
 
 ## 📬 Submission for Q-Day Prize
 
-This repository is part of a submission for the [Project 11 Q‑Day Prize](https://project-eleven.dev/qdayprize), demonstrating a successful quantum discrete logarithm attack on elliptic curve cryptography in toy settings.
+This repository is part of a submission for the Project 11 Q‑Day Prize, demonstrating a successful quantum discrete logarithm attack on elliptic curve cryptography in toy settings.
 
 ---
 
