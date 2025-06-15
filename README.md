@@ -55,7 +55,7 @@ python main.py
 ## 📄 Included Files
 
 * `python.py` – Main ECC simulator + quantum attacker
-* `brief.pdf` – Summary document (2 pages)
+* `summary.pdf` – Summary document (2 pages)
 * `quantum_ecc_cirq_results.json` – Results and metadata
 * `README.md` – This file
 
