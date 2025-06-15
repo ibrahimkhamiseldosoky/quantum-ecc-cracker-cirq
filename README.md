@@ -39,7 +39,7 @@ pip install cirq numpy matplotlib psutil
 ### 2. Run the Simulation
 
 ```bash
-python python.py
+python main.py
 ```
 
 ### 3. Output
