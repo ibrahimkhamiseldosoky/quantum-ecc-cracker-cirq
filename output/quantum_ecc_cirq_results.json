@@ -1,0 +1,594 @@
+{
+  "framework": "Cirq",
+  "hardware_info": {
+    "platform": "Windows-11-10.0.26100-SP0",
+    "processor": "Intel64 Family 6 Model 79 Stepping 1, GenuineIntel",
+    "cpu_count": 28,
+    "memory_gb": 31.91,
+    "python_version": "3.12.9",
+    "cirq_version": "1.5.0",
+    "gpu": "GPUtil not available"
+  },
+  "timestamp": "2025-06-15 14:35:29",
+  "results": [
+    {
+      "curve_params": [
+        2,
+        3,
+        5
+      ],
+      "field_size": 5,
+      "private_key": 2,
+      "public_key": [
+        3,
+        4
+      ],
+      "generator": [
+        1,
+        1
+      ],
+      "classical_time": 0.0,
+      "classical_result": 2,
+      "quantum_time": 0.05401802062988281,
+      "quantum_success": false,
+      "quantum_result": null,
+      "quantum_probability": 0,
+      "circuit_qubits": 5,
+      "circuit_depth": 16,
+      "circuit_gates": 33,
+      "gate_breakdown": {
+        "HPowGate": 15,
+        "_PauliX": 8,
+        "CZPowGate": 8,
+        "CCZPowGate": 1,
+        "MeasurementGate": 1
+      },
+      "shots": 2048,
+      "measurement_counts": {
+        "4": 262,
+        "0": 261,
+        "1": 257,
+        "3": 255,
+        "6": 271,
+        "5": 273,
+        "2": 229,
+        "7": 240
+      }
+    },
+    {
+      "curve_params": [
+        2,
+        3,
+        5
+      ],
+      "field_size": 5,
+      "private_key": 3,
+      "public_key": [
+        2,
+        0
+      ],
+      "generator": [
+        1,
+        1
+      ],
+      "classical_time": 0.0010004043579101562,
+      "classical_result": 3,
+      "quantum_time": 0.03800082206726074,
+      "quantum_success": false,
+      "quantum_result": null,
+      "quantum_probability": 0.1357421875,
+      "circuit_qubits": 5,
+      "circuit_depth": 16,
+      "circuit_gates": 33,
+      "gate_breakdown": {
+        "HPowGate": 15,
+        "_PauliX": 8,
+        "CZPowGate": 8,
+        "CCZPowGate": 1,
+        "MeasurementGate": 1
+      },
+      "shots": 2048,
+      "measurement_counts": {
+        "6": 256,
+        "7": 278,
+        "3": 267,
+        "1": 237,
+        "0": 253,
+        "5": 269,
+        "2": 255,
+        "4": 233
+      }
+    },
+    {
+      "curve_params": [
+        2,
+        3,
+        7
+      ],
+      "field_size": 7,
+      "private_key": 2,
+      "public_key": [
+        3,
+        6
+      ],
+      "generator": [
+        2,
+        1
+      ],
+      "classical_time": 0.0,
+      "classical_result": 2,
+      "quantum_time": 0.05099081993103027,
+      "quantum_success": false,
+      "quantum_result": null,
+      "quantum_probability": 0.1318359375,
+      "circuit_qubits": 5,
+      "circuit_depth": 16,
+      "circuit_gates": 33,
+      "gate_breakdown": {
+        "HPowGate": 15,
+        "_PauliX": 8,
+        "CZPowGate": 8,
+        "CCZPowGate": 1,
+        "MeasurementGate": 1
+      },
+      "shots": 2048,
+      "measurement_counts": {
+        "4": 256,
+        "6": 245,
+        "1": 237,
+        "5": 266,
+        "2": 251,
+        "7": 264,
+        "3": 270,
+        "0": 259
+      }
+    },
+    {
+      "curve_params": [
+        2,
+        3,
+        7
+      ],
+      "field_size": 7,
+      "private_key": 3,
+      "public_key": [
+        6,
+        0
+      ],
+      "generator": [
+        2,
+        1
+      ],
+      "classical_time": 0.0,
+      "classical_result": 3,
+      "quantum_time": 0.03800201416015625,
+      "quantum_success": false,
+      "quantum_result": null,
+      "quantum_probability": 0,
+      "circuit_qubits": 5,
+      "circuit_depth": 16,
+      "circuit_gates": 33,
+      "gate_breakdown": {
+        "HPowGate": 15,
+        "_PauliX": 8,
+        "CZPowGate": 8,
+        "CCZPowGate": 1,
+        "MeasurementGate": 1
+      },
+      "shots": 2048,
+      "measurement_counts": {
+        "4": 257,
+        "2": 230,
+        "5": 253,
+        "3": 274,
+        "0": 283,
+        "1": 250,
+        "7": 256,
+        "6": 245
+      }
+    },
+    {
+      "curve_params": [
+        2,
+        3,
+        7
+      ],
+      "field_size": 7,
+      "private_key": 4,
+      "public_key": [
+        3,
+        1
+      ],
+      "generator": [
+        2,
+        1
+      ],
+      "classical_time": 0.0,
+      "classical_result": 4,
+      "quantum_time": 0.03702807426452637,
+      "quantum_success": false,
+      "quantum_result": null,
+      "quantum_probability": 0,
+      "circuit_qubits": 5,
+      "circuit_depth": 16,
+      "circuit_gates": 33,
+      "gate_breakdown": {
+        "HPowGate": 15,
+        "_PauliX": 8,
+        "CZPowGate": 8,
+        "CCZPowGate": 1,
+        "MeasurementGate": 1
+      },
+      "shots": 2048,
+      "measurement_counts": {
+        "5": 255,
+        "4": 251,
+        "0": 244,
+        "7": 280,
+        "6": 278,
+        "3": 254,
+        "2": 256,
+        "1": 230
+      }
+    },
+    {
+      "curve_params": [
+        1,
+        6,
+        11
+      ],
+      "field_size": 11,
+      "private_key": 3,
+      "public_key": [
+        8,
+        8
+      ],
+      "generator": [
+        2,
+        4
+      ],
+      "classical_time": 0.0,
+      "classical_result": 3,
+      "quantum_time": 0.0460515022277832,
+      "quantum_success": false,
+      "quantum_result": null,
+      "quantum_probability": 0.072265625,
+      "circuit_qubits": 6,
+      "circuit_depth": 18,
+      "circuit_gates": 42,
+      "gate_breakdown": {
+        "HPowGate": 20,
+        "_PauliX": 10,
+        "CZPowGate": 10,
+        "CCZPowGate": 1,
+        "MeasurementGate": 1
+      },
+      "shots": 2048,
+      "measurement_counts": {
+        "1": 148,
+        "9": 129,
+        "0": 148,
+        "12": 127,
+        "6": 108,
+        "5": 128,
+        "2": 127,
+        "11": 119,
+        "8": 140,
+        "7": 120,
+        "15": 126,
+        "14": 144,
+        "3": 137,
+        "10": 110,
+        "13": 111,
+        "4": 126
+      }
+    },
+    {
+      "curve_params": [
+        1,
+        6,
+        11
+      ],
+      "field_size": 11,
+      "private_key": 5,
+      "public_key": [
+        3,
+        5
+      ],
+      "generator": [
+        2,
+        4
+      ],
+      "classical_time": 0.0,
+      "classical_result": 5,
+      "quantum_time": 0.0460357666015625,
+      "quantum_success": false,
+      "quantum_result": null,
+      "quantum_probability": 0.0712890625,
+      "circuit_qubits": 6,
+      "circuit_depth": 18,
+      "circuit_gates": 42,
+      "gate_breakdown": {
+        "HPowGate": 20,
+        "_PauliX": 10,
+        "CZPowGate": 10,
+        "CCZPowGate": 1,
+        "MeasurementGate": 1
+      },
+      "shots": 2048,
+      "measurement_counts": {
+        "13": 128,
+        "11": 131,
+        "0": 122,
+        "15": 138,
+        "1": 110,
+        "7": 135,
+        "8": 125,
+        "2": 134,
+        "14": 131,
+        "3": 130,
+        "12": 130,
+        "6": 115,
+        "4": 146,
+        "5": 118,
+        "10": 119,
+        "9": 136
+      }
+    },
+    {
+      "curve_params": [
+        1,
+        6,
+        11
+      ],
+      "field_size": 11,
+      "private_key": 7,
+      "public_key": [
+        7,
+        9
+      ],
+      "generator": [
+        2,
+        4
+      ],
+      "classical_time": 0.001001596450805664,
+      "classical_result": 7,
+      "quantum_time": 0.045998334884643555,
+      "quantum_success": false,
+      "quantum_result": null,
+      "quantum_probability": 0.07958984375,
+      "circuit_qubits": 6,
+      "circuit_depth": 18,
+      "circuit_gates": 42,
+      "gate_breakdown": {
+        "HPowGate": 20,
+        "_PauliX": 10,
+        "CZPowGate": 10,
+        "CCZPowGate": 1,
+        "MeasurementGate": 1
+      },
+      "shots": 2048,
+      "measurement_counts": {
+        "14": 130,
+        "4": 111,
+        "12": 110,
+        "7": 121,
+        "2": 163,
+        "15": 148,
+        "13": 117,
+        "5": 110,
+        "6": 146,
+        "3": 129,
+        "10": 113,
+        "1": 142,
+        "0": 146,
+        "11": 118,
+        "8": 127,
+        "9": 117
+      }
+    },
+    {
+      "curve_params": [
+        4,
+        4,
+        13
+      ],
+      "field_size": 13,
+      "private_key": 2,
+      "public_key": [
+        1,
+        10
+      ],
+      "generator": [
+        0,
+        2
+      ],
+      "classical_time": 0.0,
+      "classical_result": 2,
+      "quantum_time": 0.04602456092834473,
+      "quantum_success": false,
+      "quantum_result": null,
+      "quantum_probability": 0.078125,
+      "circuit_qubits": 6,
+      "circuit_depth": 18,
+      "circuit_gates": 42,
+      "gate_breakdown": {
+        "HPowGate": 20,
+        "_PauliX": 10,
+        "CZPowGate": 10,
+        "CCZPowGate": 1,
+        "MeasurementGate": 1
+      },
+      "shots": 2048,
+      "measurement_counts": {
+        "11": 144,
+        "10": 120,
+        "8": 127,
+        "5": 160,
+        "1": 112,
+        "12": 122,
+        "15": 136,
+        "14": 137,
+        "6": 140,
+        "13": 125,
+        "2": 112,
+        "3": 130,
+        "4": 117,
+        "9": 127,
+        "7": 118,
+        "0": 121
+      }
+    },
+    {
+      "curve_params": [
+        4,
+        4,
+        13
+      ],
+      "field_size": 13,
+      "private_key": 6,
+      "public_key": [
+        3,
+        11
+      ],
+      "generator": [
+        0,
+        2
+      ],
+      "classical_time": 0.0,
+      "classical_result": 6,
+      "quantum_time": 0.046431541442871094,
+      "quantum_success": false,
+      "quantum_result": null,
+      "quantum_probability": 0.076171875,
+      "circuit_qubits": 6,
+      "circuit_depth": 18,
+      "circuit_gates": 42,
+      "gate_breakdown": {
+        "HPowGate": 20,
+        "_PauliX": 10,
+        "CZPowGate": 10,
+        "CCZPowGate": 1,
+        "MeasurementGate": 1
+      },
+      "shots": 2048,
+      "measurement_counts": {
+        "5": 124,
+        "3": 138,
+        "9": 136,
+        "11": 117,
+        "15": 126,
+        "8": 129,
+        "14": 140,
+        "12": 133,
+        "7": 126,
+        "0": 105,
+        "1": 156,
+        "10": 147,
+        "4": 114,
+        "6": 119,
+        "13": 127,
+        "2": 111
+      }
+    },
+    {
+      "curve_params": [
+        4,
+        4,
+        13
+      ],
+      "field_size": 13,
+      "private_key": 8,
+      "public_key": [
+        6,
+        7
+      ],
+      "generator": [
+        0,
+        2
+      ],
+      "classical_time": 0.0,
+      "classical_result": 8,
+      "quantum_time": 0.05103635787963867,
+      "quantum_success": false,
+      "quantum_result": null,
+      "quantum_probability": 0.0703125,
+      "circuit_qubits": 6,
+      "circuit_depth": 18,
+      "circuit_gates": 42,
+      "gate_breakdown": {
+        "HPowGate": 20,
+        "_PauliX": 10,
+        "CZPowGate": 10,
+        "CCZPowGate": 1,
+        "MeasurementGate": 1
+      },
+      "shots": 2048,
+      "measurement_counts": {
+        "6": 144,
+        "7": 123,
+        "1": 133,
+        "0": 118,
+        "12": 139,
+        "3": 116,
+        "13": 126,
+        "10": 111,
+        "14": 139,
+        "4": 137,
+        "11": 130,
+        "5": 134,
+        "9": 118,
+        "8": 129,
+        "2": 135,
+        "15": 116
+      }
+    }
+  ],
+  "analysis": {
+    "total_experiments": 11,
+    "quantum_success_rate": 0.0,
+    "classical_success_rate": 1.0,
+    "average_quantum_time": 0.045419801365245475,
+    "average_classical_time": 0.00018200007351962003,
+    "average_quantum_probability": 0.06503018465909091,
+    "qubit_usage": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ],
+    "circuit_depths": [
+      16,
+      16,
+      16,
+      16,
+      16,
+      18,
+      18,
+      18,
+      18,
+      18,
+      18
+    ],
+    "field_sizes": [
+      5,
+      5,
+      7,
+      7,
+      7,
+      11,
+      11,
+      11,
+      13,
+      13,
+      13
+    ]
+  }
+}
